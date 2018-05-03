@@ -1,1 +1,1 @@
-# deep_learning_by_google
+# Udacity deep_learning_by_google
